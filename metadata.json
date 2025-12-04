@@ -1,0 +1,5 @@
+{
+  "name": "Dungeon & Chat",
+  "description": "A streamlined VTT alternative focused on chat-based RPG gaming (Theater of the Mind). Features integrated character sheets for systems like Old Dragon 2e, dice rolling, and a virtual library.",
+  "requestFramePermissions": []
+}
